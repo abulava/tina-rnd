@@ -37,7 +37,7 @@ blocks:
           name: BiLike
           color: primary
           style: float
-        title: This Is a Feature
+        title: Is This a Feature?
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
           name: BiPalette
@@ -50,5 +50,6 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
