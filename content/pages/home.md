@@ -27,7 +27,7 @@ blocks:
   - items:
       - icon:
           name: BiCodeBlock
-          color: red
+          color: pink
           style: float
         title: Amazing Feature
         text: >-
@@ -37,7 +37,7 @@ blocks:
           name: BiLike
           color: primary
           style: float
-        title: Is This a Feature?
+        title: Is This a Feature? Amazing Feature
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
           name: BiPalette
@@ -50,6 +50,7 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
 
