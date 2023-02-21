@@ -9,6 +9,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "urgent-help",
+        "label": "Urgent help"
+      },
+      {
         "href": "",
         "label": "Home"
       },
